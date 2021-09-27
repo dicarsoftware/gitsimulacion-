@@ -1,0 +1,18 @@
+.nav{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.main{
+    background-color: burlywood;
+    margin-left: 20%;
+    text-align: center;
+    width: 800px;
+    height: 300px;
+    padding-top: 0.3em;
+}
+
+.main-green{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
