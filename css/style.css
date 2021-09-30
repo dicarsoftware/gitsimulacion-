@@ -1,6 +1,17 @@
 .nav{
-    background-color: aquamarine;
+    background-color: red;
     text-align: center;
+
+}
+
+.nav__text{
+    color: aqua;
+}
+
+.nav__title{
+
+    color: aqua;
+
 }
 
 .main{
@@ -12,7 +23,7 @@
     padding-top: 0.3em;
 }
 
-.main-green{
+.main--green{
 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
