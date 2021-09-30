@@ -27,3 +27,15 @@
 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.footer{
+	background-color: black;
+}
+
+.footer__titulo{
+
+    text-align: center;
+    color:white;
+}
+
+
